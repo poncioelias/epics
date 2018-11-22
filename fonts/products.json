@@ -1,0 +1,29 @@
+{
+	"itens" : 
+	[{  
+      "id_prod": 1,
+      "nome": "Editor de Texto1",
+      "descricao": "Sistema para edição rápida de pequenos trechos de codigos",
+      "valor": "180.00",
+      "valor_desconto":"150.00"
+    },{      
+      "id_prod": 2,      
+      "nome": "Sistema de Fotografias",
+      "descricao": "Armazene e exiba suas fotos de forma agradável e funcional",
+      "valor": "100.00",
+      "valor_desconto":"70.00"
+    },{   
+      "id_prod": 3,
+      "nome": "Sistema para Videomaker",
+      "descricao": "Agilize suas rotinas, organize seus videos por meio de um sistema de interface super intuitiva",
+      "valor": "163.00",
+      "valor_desconto":"120.00"
+    },{    
+      "id_prod": 4,      
+      "nome": "Sistemas para Estúdios",
+      "descricao": "Exclusivo layout que gerencia suas fotos",
+      "valor": "123.00",
+      "valor_desconto":"110.00"
+    }]
+  
+} 
